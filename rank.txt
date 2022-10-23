@@ -1,0 +1,11 @@
+# There are various ranks in Indian Administrative Services
+SDM
+DM
+Secretary
+
+# There are various ranks in Indian Forces
+Leutinent
+Captain
+Major
+
+
