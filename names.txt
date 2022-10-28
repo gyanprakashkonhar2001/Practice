@@ -6,3 +6,8 @@
  Dhriti
  Swarn
  Omkar
+
+Enemy: 
+ Shreevidya
+ Vibin (exceptional)
+ Sudha
