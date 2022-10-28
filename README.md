@@ -1,3 +1,4 @@
+prachi
 # Median housing value prediction
 
 The housing data can be downloaded from https://raw.githubusercontent.com/ageron/handson-ml/master/. The script has codes to download the data. We have modelled the median house value on given housing data. 
@@ -37,3 +38,9 @@ python nonstandardcode.py
 ```
 
 '''sudo apt update'''
+=======
+# Practice
+This is for my first time practice on github
+
+''' sudo apt update'''
+main
