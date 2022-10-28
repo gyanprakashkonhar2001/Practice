@@ -35,3 +35,5 @@ conda activate mle-dev
 ```python
 python nonstandardcode.py
 ```
+
+'''sudo apt update'''
